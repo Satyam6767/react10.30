@@ -104,3 +104,17 @@ vs
 
  github 
 
+
+
+
+new project => 
+    git init 
+    git add .
+    git commit -m "initial commit"
+    git remote add origin "url"
+    git branch -M main
+    git push -u origin main
+
+
+
+old project => 
