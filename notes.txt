@@ -1,0 +1,106 @@
+react => it is a javscript frontend library,
+         it is single page application
+         it is component based architecture -> class component,  functional component
+         
+
+how to install react =>
+                        cra => create react app => 
+
+                        npx create-react-app my-app
+                        cd my-app
+                        npm start  => localhost 3000
+
+
+                        vite => 
+                                    npm create vite@latest
+                                    npm run dev => localhost 5173
+
+
+
+folder and file structure => 
+    readme.md => it is like user guide , information about project, you can change in this file 
+    package.json => project dependecies, libraris-> name, version, you can not change in this file
+    package-lock.json => it is details version of package.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+topics cover => 
+
+
+react introduction,
+how to install react,
+file and folder structure 
+component
+class component -> syntax lengthy 
+                lifecycle methods-> phases=> mounting, updating, unmounting
+functional component , syntax,
+props => short from of properties
+prop drilling 
+how to add css in react => 
+how to add bootstrap in react 
+hooks -> 
+        usestate() => to manage state
+        useeffect() => for sideeffect task
+        usenavigate() => navigate between pages
+        useparams () => render component according to url parameter
+        useSelector() => get data from store
+        useDispatch() => send action
+
+
+routing => react router dom =>
+    Link , router, routes, route
+
+
+APi call => 
+
+weather project
+
+
+redux=>
+
+store => centralized place
+action => an object that tell what happend (message)
+reducer => a function that decides how states change
+
+hooks=>
+    useSelector => get data from store
+    useDispatch= > send action
+
+
+
+
+
+code => github 
+host => vercel, netlify, onrender
+
+
+code server store => cpannel, 
+godaddy 
+
+
+project live 
+
+
+
+
+
+git 
+
+
+
+vs
+
+
+ github 
+
